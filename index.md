@@ -15,6 +15,7 @@ Winter term 2026/27 ~ RPTU Kaiserslautern-Landau
 <dt>Instructor</dt>
 <dd><a href="https://www.sethrf.com">Prof. Dr. Seth Flaxman</a></dd>
 <dt>Preparation</dt>
-  <dd>Please read the two articles *before we meet* for Week 1 on the <a href="https://flaxter.github.io/rptu-csml-2026/readings/">readings page</a>.</dd>
+  <dd>1. Please read the two articles *before we meet* for Week 1 on the <a href="https://flaxter.github.io/rptu-csml-2026/readings/">readings page</a>.</dd>
+  <dd>2. You will need a GitHub account (register for one if you don't have one already). Fork the repo for the class.</dd>
 </dl>
 
