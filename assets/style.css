@@ -20,3 +20,5 @@ li { margin: .4rem 0; }
 footer { padding: 1rem 0 2rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: .85rem; }
 footer a { color: inherit; }
 @media (max-width: 480px) { header { flex-direction: column; align-items: flex-start; } nav a { margin: 0 1.25rem 0 0; } }
+dd ol { margin: .2rem 0 0; padding-left: 1.3rem; }
+dd li { margin: .2rem 0; }
