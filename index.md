@@ -5,7 +5,7 @@ title: Home
 
 # Computational Statistics and Machine Learning
 
-Winter term 2026/27 · RPTU Kaiserslautern-Landau
+Winter term 2026/27 | RPTU Kaiserslautern-Landau
 
 <dl>
 <dt>Kickoff meeting</dt>
@@ -13,7 +13,7 @@ Winter term 2026/27 · RPTU Kaiserslautern-Landau
 <dt>Where</dt>
 <dd>Building 48, Room 379</dd>
 <dt>Instructor</dt>
-<dd>Seth Flaxman</dd>
+<dd>[Prof. Dr. Seth Flaxman](https://www.sethrf.com)</dd>
 </dl>
 
 Readings for the term are collected on the [readings page](readings/).
