@@ -18,7 +18,7 @@ Winter term 2026/27 ~ RPTU Kaiserslautern-Landau
 <dd>
 <ol>
 <li>Please read the two Week 1 articles on the <a href="readings/">readings page</a> <strong>before we meet</strong>.</li>
-<li>You will need a GitHub account (register for one if you don't have one already), then fork the <a href="https://github.com/flaxter/rptu-csml-2026">class repo</a>.</li>
+<li>You will need a GitHub account (register for one if you don't have one already), then fork the <a href="https://github.com/MLGlobalHealth/rptu-csml-2026">class repo</a>.</li>
 </ol>
 </dd>
 </dl>
