@@ -13,7 +13,7 @@ Winter term 2026/27 | RPTU Kaiserslautern-Landau
 <dt>Where</dt>
 <dd>Building 48, Room 379</dd>
 <dt>Instructor</dt>
-<dd>[Prof. Dr. Seth Flaxman](https://www.sethrf.com)</dd>
+<dd><a href="https://www.sethrf.com">Prof. Dr. Seth Flaxman</a></dd>
 </dl>
 
 Readings for the term are collected on the [readings page](readings/).
