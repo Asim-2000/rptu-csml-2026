@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} · {{ site.title }}</title>
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+<header>
+  <a href="https://rptu.de/" class="logo"><img src="{{ '/assets/rptu-logo.svg' | relative_url }}" alt="RPTU Kaiserslautern-Landau" width="135" height="35"></a>
+  <nav>
+    <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+    <a href="{{ '/readings/' | relative_url }}"{% if page.url contains '/readings' %} class="active"{% endif %}>Readings</a>
+  </nav>
+</header>
+<main>
+{{ content }}
+</main>
+<footer>Seth Flaxman · <a href="https://cs.rptu.de/">Department of Computer Science</a>, RPTU Kaiserslautern-Landau · Winter term 2026/27</footer>
+</body>
+</html>
