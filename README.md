@@ -1,5 +1,9 @@
-Course page for Computational Statistics and Machine Learning, RPTU, winter 2026/27.
-Published at https://flaxter.github.io/rptu-csml-2026/ via GitHub Pages (Jekyll).
+# Computational Statistics and Machine Learning — RPTU, winter 2026/27
+
+Course page: https://flaxter.github.io/rptu-csml-2026/
 
 - `index.md` — kickoff info
-- `readings.md` — add readings here; plain Markdown, one `## Week N` heading per week
+- `readings.md` — the readings page; one `## Week N` section per week
+- `readings/` — PDFs linked from the readings page
+
+Students: pull requests (e.g. adding a reading or fixing a link) are welcome.
