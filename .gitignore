@@ -1,0 +1,6 @@
+# never commit student lists or spreadsheets
+*.xlsx
+*.xls
+*.csv
+*students*
+.DS_Store
