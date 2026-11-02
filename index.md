@@ -8,12 +8,8 @@ title: Home
 Winter term 2026/27 ~ RPTU Kaiserslautern-Landau
 
 <dl>
-<dt>Kickoff meeting</dt>
-<dd>Wednesday 28.10.2026, 10:15–11:45</dd>
-<dt>Where</dt>
-<dd>Building 48, Room 379</dd>
 <dt>Instructor</dt>
-<dd><a href="https://www.sethrf.com">Prof. Dr. Seth Flaxman</a></dd>
+<dd><a href="https://www.sethrf.com">Prof. Dr. Seth Flaxman</a></dd> (seth.flaxman@rptu.de)
 <dt>Office hours</dt>
 <dd>Wednesdays at 9:00, every week, Building 48, Room 460<br>
 No appointment needed, just come along with your partners to discuss, even if you don't have questions. Everyone <em>must</em> attend at least once per month!</dd>
