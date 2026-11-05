@@ -12,6 +12,7 @@ Winter term 2026/27 ~ RPTU Kaiserslautern-Landau
 <dd><a href="https://www.sethrf.com">Prof. Dr. Seth Flaxman</a> <seth.flaxman@rptu.de></dd>
 <dt>Office hours</dt>
 <dd>Wednesdays at 9:00, every week, Building 48, Room 460<br>
+<strong>Next week only: Wednesday 11.11.2026, 9:30–10:30.</strong><br>
 No appointment needed, just come along with your partners to discuss, even if you don't have questions. Everyone <em>must</em> attend at least once per month!</dd>
 <dt>Project signup deadline: 04.11.2026 23:59</dt>
 <dd>
